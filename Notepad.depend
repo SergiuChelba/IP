@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1705562467 source:c:\users\sergiu\desktop\fii anul 1\programe fii\notepad\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<ctime>
+	<vector>
+	<unistd.h>
+	<chrono>
+	<sstream>
+	<cstdint>
+
